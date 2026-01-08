@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1767896600279,
+      "tag": "0000_nice_warpath",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1767896868936,
+      "tag": "0001_many_the_fury",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1767897804825,
+      "tag": "0002_massive_hannibal_king",
+      "breakpoints": true
+    }
+  ]
+}
